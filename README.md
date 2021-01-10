@@ -27,7 +27,7 @@
 # ideas:
 
 1. Hierarchy k-means
-2. APC + CPC + MPC (joint training/conditional training)
+2. APC + CPC + MPC (joint training/conditional training/finetune)
 3. PI
 
 # Q:
