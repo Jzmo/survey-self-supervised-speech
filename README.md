@@ -29,4 +29,7 @@
 1. Hierarchy k-means
 2. APC + CPC + MPC (joint training/conditional training)
 3. PI
-4. Short term action?
+
+# Q:
+1. Short term action
+2. Metrics
