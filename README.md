@@ -20,7 +20,7 @@
 | ----------- | -------------------------------------- | ------- | ------------ | ------ | ----------------- |
 |             | [Towards Semi-Supervised Semantics Understanding from Speech](https://arxiv.org/abs/2011.06195) |  | MIT/Amazon | | |
 |             | [The Zero Resource Speech Benchmark 2021: Metrics and baselines for unsupervised spoken language modeling](https://arxiv.org/pdf/2011.11588.pdf) |  | | | |
-|             | [Similarity Analysis of Self-Supervised Speech Representations](https://arxiv.org/abs/2010.11481) |  | MIT | | |
+|   C/A/MPC   | [Similarity Analysis of Self-Supervised Speech Representations](https://arxiv.org/abs/2010.11481) |  | MIT | | |
 |   DAPC      | [Representation Learning for Sequence Data with Deep Autoencoding Predictive Components](https://arxiv.org/abs/2010.03135) |  | Cornell | | |
 |  BertVideo  | [VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/pdf/1904.01766.pdf) |  | Google | | |
 
