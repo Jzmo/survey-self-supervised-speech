@@ -15,7 +15,7 @@
 |             | [Self-training and Pre-training are Complementary for Speech Recognition](http://arxiv.org/abs/2010.11430) |  | Facebook AI Research | | |
 
 
-# from NeurIPS 2020 SAS workshop:
+# Tianzi
 | Name        | Paper                                  | Comment | Organization | Source | Pre-trained model |
 | ----------- | -------------------------------------- | ------- | ------------ | ------ | ----------------- |
 |             | [Towards Semi-Supervised Semantics Understanding from Speech](https://arxiv.org/abs/2011.06195) |  | MIT/Amazon | | |
