@@ -1,3 +1,5 @@
+Survery of Non autoregressive model
+
 | Name        | Paper                                  | Comment | 
 | ----------- | -------------------------------------- | ------- |
 |  A-FMLM     | [Listen and Fill in the Missing Letters: Non-Autoregressive Transformer for Speech Recognition](https://arxiv.org/abs/1911.04908) |  |  
